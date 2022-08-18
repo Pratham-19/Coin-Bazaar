@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "767025343690",
+    "project_id": "crypto-wallet-af463",
+    "storage_bucket": "crypto-wallet-af463.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767025343690:android:e5d45a58c5432db5131833",
+        "android_client_info": {
+          "package_name": "com.example.coinbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767025343690-q4pqiiglcvc0j93242mriqm6h393c8f8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC55WhzFZjDCFYurWgCmDODscuVEAsdYqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767025343690-q4pqiiglcvc0j93242mriqm6h393c8f8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "767025343690-ia6sr9pbpsiil1bpdu70s787smkpqd1r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.coinbank"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
